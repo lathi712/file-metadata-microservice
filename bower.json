@@ -1,0 +1,17 @@
+{
+  "name": "file-metadata-microservice",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Aman Mittal <amandeepmittal@live.com> (http://amandeepmittal.github.io/)"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
